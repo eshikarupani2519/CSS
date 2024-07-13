@@ -1,0 +1,9 @@
+/* p is selector,color is property and aqua is value */
+p{
+    color: aqua;
+    background-color: black;
+}
+h1{
+    color: blue;
+}
+/* meaning select all paragraphs in linked sheet and apply given rules */
