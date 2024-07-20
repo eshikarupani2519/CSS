@@ -1,0 +1,45 @@
+/* element selector */
+/* p{
+    color: chartreuse;
+}
+/* class selector (has the higher priority than element as it is more specific) */
+/* .para{
+    color: cornflowerblue;
+} */
+/* id selector (more specific) id must be unique but if not it will not throw an error */
+/* #para3{
+    color: crimson;
+} */
+/* inline styles are not preferred because we should keep html file to be html only and style should be linked separately */
+/* .success{
+    background-color: limegreen;
+    color: black;
+} */
+/* choose all h2 that have class success */
+/* h2.success{
+    color: darkblue;
+   
+}  */
+/* p#success is useless because id is already unique */
+/* descendent selector- selects all children of same blood line */
+/* div p{
+    color: darkmagenta;
+}
+section p{
+    background-color: coral;
+}
+div h3{
+    background-color: aquamarine;
+} */
+/* sirf direct children p ko change karega */
+/* div>p{
+    color:teal;
+} */
+ .bgim{
+    color: bisque;
+   background-size: 300px;;
+    height: 200px;
+    background-image: url('nature.png');
+    background-repeat:repeat-x;
+    background-color: aqua;
+}
