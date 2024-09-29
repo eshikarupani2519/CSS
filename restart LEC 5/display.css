@@ -1,0 +1,28 @@
+/* p
+{
+   background-color: aqua;
+   display: inline-block;
+   padding: 5px;
+   width: 50%;
+}
+span
+{
+    background-color: fuchsia;
+    display: inline-block;
+    padding: 5px;
+    width: 50%;
+} */
+ .bg-blue
+ {
+    background-color: aqua;
+ }
+ .bg-pink
+ {
+    background-color: hotpink;
+ }
+ .inline
+ {
+    display: inline-block;
+    width: 50%;
+    height: 500px;
+ }

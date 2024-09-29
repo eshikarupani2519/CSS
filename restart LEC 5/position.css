@@ -1,0 +1,24 @@
+div{
+    border: 2px solid black;
+    margin: 50px;
+}
+/* .relative
+{
+    position: relative;
+    top: 30px;
+    left: 50px;
+} */
+.static
+{
+    position: static;
+}
+.relative
+{
+    position: relative;
+}
+.abs
+{
+    position: absolute;
+    top: 50px;
+    /* relative ke position se shift hoga */
+}

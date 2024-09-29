@@ -1,0 +1,24 @@
+*
+{
+    /* default value-comtent box ,meaning border ke hisaab se arrange karo lekin aana inline block hi chahiye,,border ko include karke 50% jagah lega */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; 
+}
+.in
+{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top; 
+    border: 2px solid brown;
+}
+.doraemi
+{
+    background-color: palevioletred;
+    width: calc(50% - 8px);
+}
+.doraemon
+{
+    background-color:cornflowerblue;
+}
+/* calc mein spaces ke tante hain */

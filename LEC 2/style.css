@@ -1,4 +1,4 @@
-/* element selector */
+/* element/tag/type selector */
 /* p{
     color: chartreuse;
 }
@@ -36,10 +36,21 @@ div h3{
     color:teal;
 } */
  .bgim{
-    color: bisque;
-   background-size: 300px;;
+    text-align:center;
+    /* text-decoration:wavy;    */
+     color: bisque;
+   background-size: 300px;
     height: 200px;
     background-image: url('nature.png');
     background-repeat:repeat-x;
-    background-color: aqua;
-}
+    background-color: aqua; 
+ } 
+ /* personal */
+img {
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    padding: 50px;
+  }
+/* text bhi allign hota hai using text allign,strike using line through in text decoration */
+ /*line 39: what is the difference between end and right?what is justify? */

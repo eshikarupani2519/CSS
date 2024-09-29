@@ -1,4 +1,4 @@
-/* p is selector,color is property and aqua is value */
+/* p is selector,color is property and aqua is value,multiple selectors are allowed(only of same type) */
 p{
     color: aqua;
     background-color: black;
